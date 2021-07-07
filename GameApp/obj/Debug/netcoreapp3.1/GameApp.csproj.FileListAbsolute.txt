@@ -1,0 +1,13 @@
+C:\Users\aiman.shariff\source\repos\GameApp\GameApp\bin\Debug\netcoreapp3.1\GameApp.exe
+C:\Users\aiman.shariff\source\repos\GameApp\GameApp\bin\Debug\netcoreapp3.1\GameApp.deps.json
+C:\Users\aiman.shariff\source\repos\GameApp\GameApp\bin\Debug\netcoreapp3.1\GameApp.runtimeconfig.json
+C:\Users\aiman.shariff\source\repos\GameApp\GameApp\bin\Debug\netcoreapp3.1\GameApp.runtimeconfig.dev.json
+C:\Users\aiman.shariff\source\repos\GameApp\GameApp\bin\Debug\netcoreapp3.1\GameApp.dll
+C:\Users\aiman.shariff\source\repos\GameApp\GameApp\bin\Debug\netcoreapp3.1\GameApp.pdb
+C:\Users\aiman.shariff\source\repos\GameApp\GameApp\obj\Debug\netcoreapp3.1\GameApp.csprojAssemblyReference.cache
+C:\Users\aiman.shariff\source\repos\GameApp\GameApp\obj\Debug\netcoreapp3.1\GameApp.AssemblyInfoInputs.cache
+C:\Users\aiman.shariff\source\repos\GameApp\GameApp\obj\Debug\netcoreapp3.1\GameApp.AssemblyInfo.cs
+C:\Users\aiman.shariff\source\repos\GameApp\GameApp\obj\Debug\netcoreapp3.1\GameApp.csproj.CoreCompileInputs.cache
+C:\Users\aiman.shariff\source\repos\GameApp\GameApp\obj\Debug\netcoreapp3.1\GameApp.dll
+C:\Users\aiman.shariff\source\repos\GameApp\GameApp\obj\Debug\netcoreapp3.1\GameApp.pdb
+C:\Users\aiman.shariff\source\repos\GameApp\GameApp\obj\Debug\netcoreapp3.1\GameApp.genruntimeconfig.cache
